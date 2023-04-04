@@ -17,7 +17,7 @@ git clone https://github.com/donghyun-dev/auth_example.git
 ### FrontEnd 실행방법
 
 ### 필요한 패키지를 설치해줍니다.
-
+client 폴더에서 아래와 같이 명령어를 입력해줍니다.
 ```bash
 
 yarn install
